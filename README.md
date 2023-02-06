@@ -1,4 +1,4 @@
-## Curriculum Vitae exibido em um site (meu site pessoal)
+## Curriculum Vitae exibido em meu site pessoal
 
 
 Visualização do site: https://marciolenes.com.br/
